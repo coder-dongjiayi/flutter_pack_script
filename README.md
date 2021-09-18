@@ -1,4 +1,4 @@
-
+# 使用swift 编写自动化打包脚本
 > 本教程适合中小型公司，内部实现自动化打包，方便、稳定。彻底解放程序员的双手，无需部署繁琐的Jenkins，只要简单几步即可，可以不局限于flutter，原生Android和iOS都可以，思路都一样。使用jenkins打完包以后 钉钉机器人在群里通知打包的测试同学。
 
 ![20210918113209.jpg](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/b8ce95f03c0b4149bbde1004e9f53b45~tplv-k3u1fbpfcp-watermark.image?)
